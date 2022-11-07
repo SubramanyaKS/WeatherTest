@@ -22,11 +22,26 @@ public class App {
 		Thread.sleep(10000);
 		System.out.println("Successfully getting the Home Page");
 		Thread.sleep(10000);
+		String Title = driver.getTitle();
+		System.out.println(Title);
+
+		String PageSource = driver.getPageSource();
+		int pageSourceLength = PageSource.length(); 
+		System.out.println(pageSourceLength);
+		
+		String CurrentUrl = driver.getCurrentUrl(); 
+		System.out.println(CurrentUrl);
+
+
+		//Test 02:Chrome Maximization
+		driver.manage().window().maximize();
+		System.out.println("The chrome window is maximized");
+		Thread.sleep(3000);
 		WebElement p=driver.findElement(By.className("searchBar"));
 		p.sendKeys("london");
 		p.submit();
 		
-		Thread.sleep(10000);
+		Thread.sleep(20000);
 
 		driver.quit();
     }
