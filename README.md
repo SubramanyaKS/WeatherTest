@@ -1,4 +1,4 @@
-I## Weather Test
+# Weather Test
 
 #### Testing web app
 [Website](https://subramanyaks.github.io/Weather-app/)
