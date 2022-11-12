@@ -1,7 +1,6 @@
 # Weather Test
 
-#### Testing web app
-[Website](https://subramanyaks.github.io/Weather-app/)
+#### Testing web app:  [Website](https://subramanyaks.github.io/Weather-app/)
 
 #### Software Testing
 Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do. The benefits of testing include preventing bugs, reducing development costs and improving performance.
