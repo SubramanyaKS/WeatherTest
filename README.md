@@ -32,4 +32,4 @@ Selenium is an open-source tool that automates web browsers. It provides a singl
 
 [Youtube](https://www.youtube.com/watch?v=dsro-c_6m1c&list=PLKlw4lXUW9m4Q91LaXtD4_XqA9dEoJtWe)
 
-if you like the project star the repo.
+if you like the project  🌟 the repo.
